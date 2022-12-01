@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Elijah1368/MorphicConsortium/static/css/main.b071d4ca.css",
+    "main.js": "/Elijah1368/MorphicConsortium/static/js/main.8d55ff8d.js",
+    "static/media/blog02.jpg": "/Elijah1368/MorphicConsortium/static/media/blog02.9cd1458be3ea9bba9b6f.jpg",
+    "static/media/logo.png": "/Elijah1368/MorphicConsortium/static/media/logo.ee23bea85da8bc635154.png",
+    "static/media/humanGenome.png": "/Elijah1368/MorphicConsortium/static/media/humanGenome.dbdc20efaf2196c92382.png",
+    "static/media/blog01.jpeg": "/Elijah1368/MorphicConsortium/static/media/blog01.d90e4f4ddec93687eff9.jpeg",
+    "static/media/blog03.jpg": "/Elijah1368/MorphicConsortium/static/media/blog03.fa03ca19cc7c4944650a.jpg",
+    "static/media/MorphicLogo.png": "/Elijah1368/MorphicConsortium/static/media/MorphicLogo.66de56e25986787c3e8e.png",
+    "index.html": "/Elijah1368/MorphicConsortium/index.html",
+    "main.b071d4ca.css.map": "/Elijah1368/MorphicConsortium/static/css/main.b071d4ca.css.map",
+    "main.8d55ff8d.js.map": "/Elijah1368/MorphicConsortium/static/js/main.8d55ff8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b071d4ca.css",
+    "static/js/main.8d55ff8d.js"
+  ]
+}
