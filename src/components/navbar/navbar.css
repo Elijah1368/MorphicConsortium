@@ -1,3 +1,5 @@
+@import '../../components/button/button.css';
+
 .morphic__navbar {
     display: flex;
     justify-content: space-between;
@@ -51,7 +53,7 @@
 .morphic__navbar-menu_container button {
     padding: 0.5rem 1rem;
     color: #fff;
-    background: #FF4820;
+    background: #2167b7;
     font-family: var(--font-family);
     font-weight: 500;
     font-size: 18px;
